@@ -50,7 +50,7 @@ git clone https://github.com/AlyaaXd/rfkbotV2
 cd rfkbotV2
 npm install
 npm update
-'''
+```
 ---------
 
 ## FOR WINDOWS/VPS/RDP USER
