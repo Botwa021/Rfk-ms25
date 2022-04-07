@@ -29,10 +29,10 @@ WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
- Heroku Buildpack 
-• heroku/nodejs
-• https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-• https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+### Instal Buildpack
+* heroku/nodejs
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 ```bash
 apt update && apt upgrade
