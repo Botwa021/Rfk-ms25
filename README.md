@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋 I'm MursidXzy</h1>
 
 <p align="center">
-  <a href="https://ibb.co/Mkk3Pg7"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+MursidXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="MursidXzy">
+  <a href="https://ibb.co/ry37XKv"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Hay+Introduce my name is Mursid+?+From+Indonesia.;I'am+Not+Programmer." alt="MursidXzy">
 </p>
 
 <p align="center">
-  <a href="https://ibb.co/Mkk3Pg7"><img src="https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpg" alt="Velgrynd"></a>
+  <a href="https://ibb.co/ry37XKv"><img src="https://ibb.co/ry37XKv" alt="Velgrynd"></a>
 </p>
 
 <p align="left">
@@ -32,11 +32,6 @@ WhatsApp Bot
 ❖ Heroku Buildpack ❖
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-
-Tutorial YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
 
 ```bash
 apt update && apt upgrade
