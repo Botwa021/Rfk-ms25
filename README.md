@@ -54,7 +54,7 @@ npm update
 ## Download Aplikasi TERMUX V117
 
 bit.ly/termuxmursid25
-
+'''
 ---------
 
 ## FOR WINDOWS/VPS/RDP USER
