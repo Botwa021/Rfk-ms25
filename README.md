@@ -50,10 +50,6 @@ git clone https://github.com/AlyaaXd/rfkbotV2
 cd rfkbotV2
 npm install
 npm update
-
-## Download Aplikasi TERMUX V117
-
-bit.ly/termuxmursid25
 '''
 ---------
 
