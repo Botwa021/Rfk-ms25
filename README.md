@@ -39,6 +39,8 @@ WhatsApp Bot
 * https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 ```bash
+## Untuk Pengguna Termux
+
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
@@ -48,6 +50,10 @@ git clone https://github.com/AlyaaXd/rfkbotV2
 cd rfkbotV2
 npm install
 npm update
+
+## Download Aplikasi TERMUX V117
+
+bit.ly/termuxmursid25
 ```
 ---------
 
