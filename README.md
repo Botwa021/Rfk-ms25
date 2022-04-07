@@ -29,7 +29,7 @@ WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
-## Jika masih ada yang bingung, jangan segan hubungi saya
+## Jika masih ada yang bingung, Dalam Run Bot bisa hubungi saya
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp%20Mursid-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6288233832771)
 
