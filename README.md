@@ -76,7 +76,5 @@ node .
 ```
 
 ---------
-----|----
 [AlyaaXzy](https://github.com/AlyaaXd) | [Mursid S](https://github.com/Botwa021)
- Penulis / Pencipta | Penulis ulang
 
