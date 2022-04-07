@@ -31,7 +31,7 @@ WhatsApp Bot
 
 ## Jika masih ada yang bingung, jangan segan hubungi saya
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6288233832771)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Mursid-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6288233832771)
 
 ### Instal Buildpack
 * heroku/nodejs
