@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋 I'm MursidXzy</h1>
 
 <p align="center">
-  <a href="https://ibb.co/ry37XKv"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Hay+Introduce my name is Mursid+?+From+Indonesia.;I'am+Not+Programmer." alt="MursidXzy">
+  <a href="https://file.hikki.me/uploads/1k17463rqs.jpeg"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Hay+Introduce+My+Name+Is+Mursid+S+?+From+Indonesia.;I'am+Not+Programmer+Jangan+DiBully+Ya+Om+Saya+Masih+Pemula😣." alt="MursidXzy">
 </p>
 
 <p align="center">
-  <a href="https://ibb.co/ry37XKv"><img src="https://ibb.co/ry37XKv" alt="Velgrynd"></a>
+  <a href="https://file.hikki.me/uploads/1k17463rqs.jpeg"><img src="https://file.hikki.me/uploads/1k17463rqs.jpeg" alt="MursidS"></a>
 </p>
 
 <p align="left">
